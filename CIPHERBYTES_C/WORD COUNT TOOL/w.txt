@@ -1,0 +1,4 @@
+Hello Connections
+This is my first c code task for Cipherbytes Technologies.
+Its about keeping track of words,characters and lines.
+Hope I have been able to code it perfectly upto the specified requirements.
